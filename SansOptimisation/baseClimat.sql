@@ -26,16 +26,3 @@ create table Daty(
 	id SERIAL PRIMARY KEY,
 	daty TIMESTAMP
 );
-insert into Daty(daty) values ('12/12/2022 08:35:45');
-
-1=>"Risques d’orages violents en Normandie et dans la Sarthe" Titre
-   "Des orages avec fortes pluies, grêle et rafales de vent sont attendus dans l`après-midi. La quasi-totalité du territoire français est en alerte jaune" resumee
-   "Après la vague de chaleur des derniers prédécents, Météo France a placé, dimanche 15 mai, six départements en vigilance orange, de la Normandie au Val-de-Loire, en raison d’orages attendus à partir du milieu de l’après-midi. Une grande partie du reste de l (...)"
-   "MÉTÉO FRANCE"
-2=>
-epuis 1990, le Giec tente de se faire entendre. Cinq rapports, tous composés de plusieurs groupes de travail ont été publiés depuis. Les experts de l'ONU ont bouclé le sixième, dévoilant séparément, en août, en février puis ce lundi 4 avril, les trois volets qui composent ce document.  
-
-Un nouveau cri d'alarme pour tenter de sauver la planète et limiter le réchauffement climatique qui risque d'engendrer des conséquences dramatiques, voire des conditions de vie intenables pour les humains. Concrètement, l'humanité dispose de "moins de trois ans" pour inverser la courbe des émissions de gaz à effet de serre, responsables du changement climatique, si elle veut conserver un monde vivable alertent-ils, une nouvelle fois.
-
-Responsabilité humaine, catastrophes et solutions : que disent les trois rapports du Giec ? =Titre
-Le troisième volet du sixième rapport du Giec a été dévoilé lundi 4 avril, offrant des solutions pour empêcher la catastrophe climatique qui s'annonce si rien n'est fait.resumee
